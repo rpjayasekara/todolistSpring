@@ -1,3 +1,5 @@
-/home/randika/eclipse-workspace/frist-web-app/src/main/java/webapp/LoginServlet.java
-/home/randika/eclipse-workspace/frist-web-app/src/main/java/springmvc/LoginController.java
-/home/randika/eclipse-workspace/frist-web-app/src/main/java/webapp/firstServlet.java
+/home/randika/eclipse-workspace/frist-web-app/src/main/java/model/Todo.java
+/home/randika/eclipse-workspace/frist-web-app/src/main/java/springmvc/login/LoginService.java
+/home/randika/eclipse-workspace/frist-web-app/src/main/java/springmvc/todo/TodoController.java
+/home/randika/eclipse-workspace/frist-web-app/src/main/java/springmvc/todo/TodoService.java
+/home/randika/eclipse-workspace/frist-web-app/src/main/java/springmvc/login/LoginController.java

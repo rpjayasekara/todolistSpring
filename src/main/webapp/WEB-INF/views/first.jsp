@@ -1,12 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>I am the first JSP bitches</title>
-</head>
-<body>
+<%@ include file="common/header.jspf"%>
+<%@ include file="common/navigation.jspf"%>
 <h2> ${error}</h2>	
  <h1>
  	Bitches I am the boss dfadf ${name}
@@ -21,5 +14,5 @@
   <input type="password" name="password" value=""><br><br>
   <input type="submit" value="Submit">
 </form>
-</body>
-</html>
+
+<%@ include file="common/footer.jspf"%>
